@@ -1,0 +1,5 @@
+# ALIASES ARE RESERVED FOR SCRIPTS AND ACTIONS, NOT STORING VALUES
+# TO STORE VALUES, USE new var
+
+nal open   "saps"
+nal join   "join-path"
